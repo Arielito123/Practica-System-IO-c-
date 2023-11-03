@@ -1,0 +1,6 @@
+C:\c#\C# System.IO\GuardarNombreApellido\GuardarNombreApellido\bin\Debug\GuardarNombreApellido.exe.config
+C:\c#\C# System.IO\GuardarNombreApellido\GuardarNombreApellido\bin\Debug\GuardarNombreApellido.exe
+C:\c#\C# System.IO\GuardarNombreApellido\GuardarNombreApellido\bin\Debug\GuardarNombreApellido.pdb
+C:\c#\C# System.IO\GuardarNombreApellido\GuardarNombreApellido\obj\Debug\GuardarNombreApellido.exe
+C:\c#\C# System.IO\GuardarNombreApellido\GuardarNombreApellido\obj\Debug\GuardarNombreApellido.pdb
+C:\c#\C# System.IO\GuardarNombreApellido\GuardarNombreApellido\obj\Debug\GuardarNombreApellido.csprojResolveAssemblyReference.cache

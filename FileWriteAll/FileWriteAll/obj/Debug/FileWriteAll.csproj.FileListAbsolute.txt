@@ -1,0 +1,6 @@
+C:\c#\C# System.IO\FileWriteAll\FileWriteAll\bin\Debug\FileWriteAll.exe.config
+C:\c#\C# System.IO\FileWriteAll\FileWriteAll\bin\Debug\FileWriteAll.exe
+C:\c#\C# System.IO\FileWriteAll\FileWriteAll\bin\Debug\FileWriteAll.pdb
+C:\c#\C# System.IO\FileWriteAll\FileWriteAll\obj\Debug\FileWriteAll.csprojResolveAssemblyReference.cache
+C:\c#\C# System.IO\FileWriteAll\FileWriteAll\obj\Debug\FileWriteAll.exe
+C:\c#\C# System.IO\FileWriteAll\FileWriteAll\obj\Debug\FileWriteAll.pdb

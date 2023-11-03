@@ -1,0 +1,6 @@
+C:\c#\C# System.IO\script copy\script copy\bin\Debug\script copy.exe.config
+C:\c#\C# System.IO\script copy\script copy\bin\Debug\script copy.exe
+C:\c#\C# System.IO\script copy\script copy\bin\Debug\script copy.pdb
+C:\c#\C# System.IO\script copy\script copy\obj\Debug\script copy.csprojResolveAssemblyReference.cache
+C:\c#\C# System.IO\script copy\script copy\obj\Debug\script copy.exe
+C:\c#\C# System.IO\script copy\script copy\obj\Debug\script copy.pdb
