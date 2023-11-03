@@ -1,0 +1,8 @@
+C:\c#\Segundo año Analista de sistema\ExpecificaBorrado\ExpecificaBorrado\bin\Debug\ExpecificaBorrado.exe.config
+C:\c#\Segundo año Analista de sistema\ExpecificaBorrado\ExpecificaBorrado\bin\Debug\ExpecificaBorrado.exe
+C:\c#\Segundo año Analista de sistema\ExpecificaBorrado\ExpecificaBorrado\bin\Debug\ExpecificaBorrado.pdb
+C:\c#\Segundo año Analista de sistema\ExpecificaBorrado\ExpecificaBorrado\obj\Debug\ExpecificaBorrado.exe
+C:\c#\Segundo año Analista de sistema\ExpecificaBorrado\ExpecificaBorrado\obj\Debug\ExpecificaBorrado.pdb
+C:\c#\C# System.IO\ExpecificaBorrado\ExpecificaBorrado\bin\Debug\ExpecificaBorrado.exe.config
+C:\c#\C# System.IO\ExpecificaBorrado\ExpecificaBorrado\obj\Debug\ExpecificaBorrado.exe
+C:\c#\C# System.IO\ExpecificaBorrado\ExpecificaBorrado\obj\Debug\ExpecificaBorrado.pdb

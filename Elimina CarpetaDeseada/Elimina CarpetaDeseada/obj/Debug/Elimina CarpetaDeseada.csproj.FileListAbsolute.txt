@@ -1,0 +1,12 @@
+C:\c#\Segundo año Analista de sistema\Elimina CarpetaDeseada\Elimina CarpetaDeseada\bin\Debug\Elimina CarpetaDeseada.exe.config
+C:\c#\Segundo año Analista de sistema\Elimina CarpetaDeseada\Elimina CarpetaDeseada\bin\Debug\Elimina CarpetaDeseada.exe
+C:\c#\Segundo año Analista de sistema\Elimina CarpetaDeseada\Elimina CarpetaDeseada\bin\Debug\Elimina CarpetaDeseada.pdb
+C:\c#\Segundo año Analista de sistema\Elimina CarpetaDeseada\Elimina CarpetaDeseada\obj\Debug\Elimina CarpetaDeseada.csprojResolveAssemblyReference.cache
+C:\c#\Segundo año Analista de sistema\Elimina CarpetaDeseada\Elimina CarpetaDeseada\obj\Debug\Elimina CarpetaDeseada.exe
+C:\c#\Segundo año Analista de sistema\Elimina CarpetaDeseada\Elimina CarpetaDeseada\obj\Debug\Elimina CarpetaDeseada.pdb
+C:\c#\C# System.IO\Elimina CarpetaDeseada\Elimina CarpetaDeseada\bin\Debug\Elimina CarpetaDeseada.exe.config
+C:\c#\C# System.IO\Elimina CarpetaDeseada\Elimina CarpetaDeseada\obj\Debug\Elimina CarpetaDeseada.exe
+C:\c#\C# System.IO\Elimina CarpetaDeseada\Elimina CarpetaDeseada\obj\Debug\Elimina CarpetaDeseada.pdb
+C:\c#\C# System.IO\Elimina CarpetaDeseada\Elimina CarpetaDeseada\bin\Debug\Elimina CarpetaDeseada.exe
+C:\c#\C# System.IO\Elimina CarpetaDeseada\Elimina CarpetaDeseada\bin\Debug\Elimina CarpetaDeseada.pdb
+C:\c#\C# System.IO\Elimina CarpetaDeseada\Elimina CarpetaDeseada\obj\Debug\Elimina CarpetaDeseada.csprojResolveAssemblyReference.cache

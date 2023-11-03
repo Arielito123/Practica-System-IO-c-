@@ -1,0 +1,6 @@
+C:\c#\C# System.IO\CreandoHojaGuardado\CreandoHojaGuardado\bin\Debug\CreandoHojaGuardado.exe.config
+C:\c#\C# System.IO\CreandoHojaGuardado\CreandoHojaGuardado\bin\Debug\CreandoHojaGuardado.exe
+C:\c#\C# System.IO\CreandoHojaGuardado\CreandoHojaGuardado\bin\Debug\CreandoHojaGuardado.pdb
+C:\c#\C# System.IO\CreandoHojaGuardado\CreandoHojaGuardado\obj\Debug\CreandoHojaGuardado.csprojResolveAssemblyReference.cache
+C:\c#\C# System.IO\CreandoHojaGuardado\CreandoHojaGuardado\obj\Debug\CreandoHojaGuardado.exe
+C:\c#\C# System.IO\CreandoHojaGuardado\CreandoHojaGuardado\obj\Debug\CreandoHojaGuardado.pdb
